@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CineVerse/static/css/main.f20a7723.css",
+    "main.js": "/CineVerse/static/js/main.bc89c0d5.js",
+    "static/js/453.0b30a3d5.chunk.js": "/CineVerse/static/js/453.0b30a3d5.chunk.js",
+    "index.html": "/CineVerse/index.html",
+    "main.f20a7723.css.map": "/CineVerse/static/css/main.f20a7723.css.map",
+    "main.bc89c0d5.js.map": "/CineVerse/static/js/main.bc89c0d5.js.map",
+    "453.0b30a3d5.chunk.js.map": "/CineVerse/static/js/453.0b30a3d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f20a7723.css",
+    "static/js/main.bc89c0d5.js"
+  ]
+}
